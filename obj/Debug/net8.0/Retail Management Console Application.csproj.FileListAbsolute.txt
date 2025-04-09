@@ -1,0 +1,14 @@
+D:\C#\ATM Console Application\RetailManagement\obj\Debug\net8.0\Retail Management Console Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ATM Console Application\RetailManagement\obj\Debug\net8.0\Retail Management Console Application.AssemblyInfoInputs.cache
+D:\C#\ATM Console Application\RetailManagement\obj\Debug\net8.0\Retail Management Console Application.AssemblyInfo.cs
+D:\C#\ATM Console Application\RetailManagement\obj\Debug\net8.0\Retail Management Console Application.csproj.CoreCompileInputs.cache
+D:\C#\ATM Console Application\RetailManagement\bin\Debug\net8.0\Retail Management Console Application.exe
+D:\C#\ATM Console Application\RetailManagement\bin\Debug\net8.0\Retail Management Console Application.deps.json
+D:\C#\ATM Console Application\RetailManagement\bin\Debug\net8.0\Retail Management Console Application.runtimeconfig.json
+D:\C#\ATM Console Application\RetailManagement\bin\Debug\net8.0\Retail Management Console Application.dll
+D:\C#\ATM Console Application\RetailManagement\bin\Debug\net8.0\Retail Management Console Application.pdb
+D:\C#\ATM Console Application\RetailManagement\obj\Debug\net8.0\Retail Management Console Application.dll
+D:\C#\ATM Console Application\RetailManagement\obj\Debug\net8.0\refint\Retail Management Console Application.dll
+D:\C#\ATM Console Application\RetailManagement\obj\Debug\net8.0\Retail Management Console Application.pdb
+D:\C#\ATM Console Application\RetailManagement\obj\Debug\net8.0\Retail Management Console Application.genruntimeconfig.cache
+D:\C#\ATM Console Application\RetailManagement\obj\Debug\net8.0\ref\Retail Management Console Application.dll
